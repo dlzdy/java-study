@@ -1,3 +1,10 @@
 Manifest-Version: 1.0
-Class-Path: 
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_25
+Implementation-Title: CKEditor for Java
+Implementation-Version: 3.6.6.2
+Implementation-Vendor-Id: com.ckeditor
+Implementation-Vendor: CKSource - Frederico Knabben
+Built-By: CKSource - Frederico Knabben
 
